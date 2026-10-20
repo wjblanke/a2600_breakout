@@ -975,7 +975,7 @@ by exp-lbrs.ulp</description>
 <pad name="PE11" x="19.05" y="6.35" drill="1.0" diameter="1.6"/>
 <pad name="PE12" x="16.51" y="6.35" drill="1.0" diameter="1.6"/>
 <text x="-19.445" y="31.795" size="1.27" layer="51">STM32F4XX DevEBox</text>
-<text x="-19.445" y="29.795" size="1.27" layer="25">&gt;NAME</text>
+<text x="-3.81" y="0" size="1.27" layer="25">&gt;NAME</text>
 </package>
 </packages>
 <packages3d>
